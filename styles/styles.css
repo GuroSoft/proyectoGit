@@ -82,7 +82,7 @@ h1,h2,h3,h4,h5,h6{
     justify-content: center;
 }
 .lista ul li a{
-    color:  white;
+    color:  #45A51A;
 }
 .info a {
     color: white;
@@ -162,7 +162,7 @@ footer{
     width: 100%;
     clear: both;
     color: #666;
-    background: #141419;
+    background: #2E2E68;
     line-height: 40px;
     overflow: hidden;
 }
